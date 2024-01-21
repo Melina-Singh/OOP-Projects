@@ -6,14 +6,12 @@ items_menu = Menu()
 coffee_machine = Coffeemaker()
 money_machine = MoneyMachine()
 
-# Prompt for the user by asking "What would you like to have"?(espresso/latte/cappuccino)
 def report():
     coffee_machine.report()
     money_machine.report()
 # items_menu.get_items()
 
-# user_report = input("If you want the report, type report")
-
+# Prompt for the user by asking "What would you like to have"?(espresso/latte/cappuccino)
 
 machine_ON = True
 while machine_ON:
