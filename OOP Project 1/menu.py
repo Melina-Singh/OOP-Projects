@@ -15,7 +15,8 @@ class Menu:
         self.menu = [
             MenuItems(name = "lattee",water = 200, milk = 150, coffee = 24, cost = 2.5),
             MenuItems(name = "espresso",water = 50, milk =0, coffee = 12, cost = 1.5),
-            MenuItems(name = "cappuccino",water = 250, milk = 50, coffee = 24, cost = 3.5)
+            MenuItems(name = "cappuccino",water = 250, milk = 50, coffee = 24, cost = 3.5),
+            MenuItems(name = "flatWhite", water = 180, milk = 45, coffee =  23, cost = 2)
         ]
 
     def get_items(self):
