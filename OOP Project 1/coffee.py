@@ -1,7 +1,7 @@
 class Coffeemaker:
     def __init__(self):
         self.resources = {
-            "water" : 300,
+            "water" : 400,
             "milk" : 200,
             "coffee" : 100,
         }
@@ -25,7 +25,7 @@ class Coffeemaker:
 
         for item in order.ingredients:
             self.resources[item] -= order.ingredients[item]
-        print("Here is your {order.name} ☕. Enjoy 💕💕")
+        print("Here is your {order.name} ☕. Enjoy 💕❤💕")
     
       
 
