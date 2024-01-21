@@ -1,7 +1,7 @@
 class MoneyMachine:
 
     CURRENCY = "$"
-
+# coffee machine is of usa lol
     COIN_VALUES = {
         "quarters": 0.20,
         "dimensions":0.10,
