@@ -1,3 +1,4 @@
+# list of items to make coffee
 class MenuItems:
     # Models each menu item.
     def __init__(self, name, milk, coffee, water,cost):
