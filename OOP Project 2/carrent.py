@@ -1,3 +1,4 @@
+
 class merocar:
     def __init__(self, stock):
         self.stock = stock
@@ -21,8 +22,7 @@ while True:
     choice = int(input('''
     1 Total Stock
     2 Enter Ouantity of cars you want to Rent \n
-    3 exit
-                       '''))
+    3 exit    '''))
     
     if choice ==1:
         obj.displaycar()
