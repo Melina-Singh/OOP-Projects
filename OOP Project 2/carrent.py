@@ -1,4 +1,4 @@
-
+ 
 class merocar:
     def __init__(self, stock):
         self.stock = stock
