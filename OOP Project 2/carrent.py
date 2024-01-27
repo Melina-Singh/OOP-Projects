@@ -12,7 +12,7 @@ class merocar:
         elif quantity > self.stock:
             print("Tyati dherai saman xaina stock ma ")
         else:
-            self.stock = self.stock - quantity
+            self.stock = self.stock - quantity  
             print("Total Price", quantity*1000) 
             print("Total Cars Remanining in the Stock", self.stock)
 
