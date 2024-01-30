@@ -5,7 +5,7 @@ class Book:
         self.author = author
         self.category = category 
         self.ISBN = ISBN
-        self.available = True
+        self.available = True   
         self.due_date = None
 
     def __str__(self):
