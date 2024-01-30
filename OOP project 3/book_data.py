@@ -10,8 +10,8 @@ _BOOKS_DATA = [
     ("Effective Python: 90 Specific Ways to Write Better Python", "Brett Slatkin", "Programming", "978-0134853987"),
     ("Python Crash Course", "Eric Matthes", "Programming", "978-1593276034"),
 
+    
     # Data SCience BOOks
-
     ("Data Science for Business", "Foster Provost and Tom Fawcett", "Data Science", "978-1449361327"),
     ("The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling", "Ralph Kimball and Margy Ross", "Data Science", "978-1118530801"),
     ("Python for Data Analysis", "Wes McKinney", "Data Science", "978-1491957660"),
@@ -26,6 +26,7 @@ _BOOKS_DATA = [
     ("Reinforcement Learning: An Introduction", "Richard S. Sutton and Andrew G. Barto", "Machine Learning", "978-0262039246"),
     ("The Hundred-Page Machine Learning Book", "Andriy Burkov", "Machine Learning", "978-1999579505"),
 
+    
     # ML Books
     ("Pattern Recognition and Machine Learning", "Christopher M. Bishop", "Machine Learning", "978-0387310732"),
     ("Machine Learning Yearning", "Andrew Ng", "Machine Learning", "978-0999247108"),
