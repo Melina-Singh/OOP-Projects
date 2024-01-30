@@ -1,7 +1,7 @@
 
 class Book:
     def __init__(self,title, author, category, ISBN):
-        self.title = title
+        self.title = title 
         self.author = author
         self.category = category 
         self.ISBN = ISBN
@@ -18,6 +18,7 @@ class Book:
            book_info += f"\nDue Date: {self.due_date}"
         else:
             book_info += "\nDue Date: Not set"
+            # this is giving me a hard time 😒
 
        return book_info
 
