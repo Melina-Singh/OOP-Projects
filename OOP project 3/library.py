@@ -13,7 +13,7 @@ class Library: #📔📔☕
         print("Library Books:")
         for book in self.books:
             if category is None or book.category == category:
-                print(book)
+                print(book)   
 
     def search_book(self, title):
         for book in self.books:
