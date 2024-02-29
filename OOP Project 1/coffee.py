@@ -3,7 +3,7 @@ class Coffeemaker:
         self.resources = {
             "water" : 400,
             "milk" : 200,
-            "coffee" : 100,
+            "coffee" : 100, 
         }
 
     def report(self):
