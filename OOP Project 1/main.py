@@ -6,7 +6,7 @@ items_menu = Menu()
 coffee_machine = Coffeemaker()
 money_machine = MoneyMachine()
 
-def report():
+def report(): 
     coffee_machine.report()
     money_machine.report()
 # items_menu.get_items()
