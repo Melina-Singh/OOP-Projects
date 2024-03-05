@@ -6,7 +6,7 @@ class MenuItems:
         self.cost = cost
         self.ingredients = {
             'water':water,
-            'milk':milk,
+            'milk':milk,   
             'coffee':coffee
         }
 
