@@ -7,7 +7,7 @@ class Coffeemaker:
         }
 
     def report(self):
-        print(f"Water: {self.resources['water']} ml")
+        print(f"Water: {self.resources['water']} ml")   
         print(f"Milk: {self.resources['milk']} ml")
         print(f"Coffee: {self.resources['coffee']} g")
 
