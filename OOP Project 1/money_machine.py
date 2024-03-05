@@ -5,7 +5,7 @@ class MoneyMachine:
     COIN_VALUES = {
         "quarters": 0.20,
         "dimensions":0.10,      
-        "Nickles":0.05,
+        "Nickles":0.05,     
         "pennies":0.01
     }
 
