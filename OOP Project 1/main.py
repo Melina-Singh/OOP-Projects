@@ -2,7 +2,7 @@ from menu import Menu, MenuItems
 from coffee import Coffeemaker
 from money_machine import MoneyMachine
 
-items_menu = Menu()
+items_menu = Menu() 
 coffee_machine = Coffeemaker()
 money_machine = MoneyMachine()
 
